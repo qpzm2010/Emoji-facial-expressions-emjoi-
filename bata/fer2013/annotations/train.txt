@@ -1,0 +1,4 @@
+path/to/image1.jpg 0
+path/to/image2.jpg 1
+path/to/image3.jpg 2
+
